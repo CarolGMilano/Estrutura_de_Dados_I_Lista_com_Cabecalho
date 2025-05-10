@@ -167,3 +167,12 @@ Abaixo estão alguns exemplos de execução do programa:
 <p align="center">
   <img src="img/sair.png" width="30%" />
 </p>
+
+## 📌 Observações
+
+Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados.  
+O objetivo foi praticar o uso de listas encadeadas com cabeçalho em linguagem C.
+
+## 🙋‍♀️ Autora
+
+Projeto desenvolvido por Carolina Milano — Estudante de Análise e Desenvolvimento de Sistemas da UFPR.
