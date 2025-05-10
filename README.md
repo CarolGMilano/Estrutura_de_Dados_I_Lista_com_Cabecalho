@@ -134,7 +134,7 @@ Abaixo estão alguns exemplos de execução do programa:
 
 ### 🧹 Remover duplicatas
 <p align="center">
-  <img src="img/removerDuplicatas.png" width="30%" />
+  <img src="img/removerDuplicata.png" width="30%" />
 </p>
 
 ### 🚪 Sair
