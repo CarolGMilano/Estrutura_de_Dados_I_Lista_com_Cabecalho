@@ -66,10 +66,78 @@ A funcionalidade de cada função é demonstrada no arquivo `main.c`, por meio d
 
 Abaixo estão alguns exemplos de execução do programa:
 
-**Inserir no início**
+### ➕ Inserir no início
 <p align="center">
   <img src="img/inserirInicio01.png" width="25%" />
   <img src="img/inserirInicio02.png" width="25%" />
   <img src="img/inserirInicio03.png" width="25%" />
   <img src="img/inserirInicio04.png" width="25%" />
+</p>
+
+### ➕ Inserir no final
+<p align="center">
+  <img src="img/inserirFim01.png" width="30%" />
+  <img src="img/inserirFim02.png" width="30%" />
+</p>
+
+### ❌ Remover valor
+<p align="center">
+  <img src="img/remover01.png" width="30%" />
+  <img src="img/remover02.png" width="30%" />
+</p>
+
+### 📄 Imprimir lista
+<p align="center">
+  <img src="img/imprimir.png" width="30%" />
+</p>
+
+### 🔢 Contar elementos
+<p align="center">
+  <img src="img/contarElementos01.png" width="30%" />
+</p>
+
+### 🔍 Buscar valor
+<p align="center">
+  <img src="img/buscar01.png" width="30%" />
+  <img src="img/buscar02.png" width="30%" />
+</p>
+
+### 🔺 Obter maior valor
+<p align="center">
+  <img src="img/maiorValor.png" width="30%" />
+</p>
+
+### 🔻 Obter menor valor
+<p align="center">
+  <img src="img/menorValor.png" width="30%" />
+</p>
+
+### 📭 Descobrir se a lista está vazia
+<p align="center">
+  <img src="img/estaVazia.png" width="30%" />
+</p>
+
+### 🔁 Inverter ordem
+<p align="center">
+  <img src="img/inverter.png" width="30%" />
+</p>
+
+### 📝 Copiar lista
+<p align="center">
+  <img src="img/copiar.png" width="30%" />
+</p>
+
+### 📎 Concatenar listas
+<p align="center">
+  <img src="img/concatenar.png" width="30%" />
+</p>
+
+### 🧹 Remover duplicatas
+<p align="center">
+  <img src="img/removerDuplicatas.png" width="30%" />
+</p>
+
+### 🚪 Sair
+<p align="center">
+  <img src="img/sair.png" width="30%" />
 </p>
