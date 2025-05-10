@@ -45,6 +45,7 @@ A funcionalidade de cada função é demonstrada no arquivo `main.c`, por meio d
 
 - Um **menu interativo** com as seguintes opções:
 
+```bash
   1. Inserir no início;
   2. Inserir no final;
   3. Remover valor;
@@ -59,5 +60,16 @@ A funcionalidade de cada função é demonstrada no arquivo `main.c`, por meio d
   12. Concatenar listas;
   13. Remover duplicatas;
   0. Sair;
-  
+```
+
 - Diversos `printf`s mostrando as alterações nas listas após cada operação
+
+Abaixo estão alguns exemplos de execução do programa:
+
+**Inserir no início**
+<p align="center">
+  <img src="img/inserirInicio01.png" width="25%" />
+  <img src="img/inserirInicio02.png" width="25%" />
+  <img src="img/inserirInicio03.png" width="25%" />
+  <img src="img/inserirInicio04.png" width="25%" />
+</p>
