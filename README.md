@@ -170,7 +170,7 @@ Abaixo estão alguns exemplos de execução do programa:
 
 ## 📌 Observações
 
-Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados.  
+Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados I.  
 O objetivo foi praticar o uso de listas encadeadas com cabeçalho em linguagem C.
 
 ## 🙋‍♀️ Autora
